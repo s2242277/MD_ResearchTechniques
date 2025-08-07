@@ -63,11 +63,12 @@ Feedback from students highlights that the learners found the material engaging,
 
 # Content and Instructional Design
 
+The course material, `Notes/`, was shared with the students via the University of Edinburgh's Datastore. Students could then access the material from their local browsers.
+
 The course comprises three 3-hour-long workshops, run weekly. Each session begins with a short lecture to contextualise the material. The remainder of the session is set for independent work using HTML guides with demonstrators available. The students are also supported by weekly drop-in sessions. 
 A final workshop session is used to introduce individual projects, assessment criteria and allow students to get started. 
 The students have two weeks to work on the project and submit a summative report. (Note, we are unable to share the individual project materials.)
 The course is designed for taught postgraduate masters students taking degrees in 'Materials Chemistry', 'Analytical Chemistry', and 'Medicinal and Biological Chemistry', and therefore the content for the third workshop and individual projects is adjusted to suit these diverse backgrounds.
-
 
 
 ## Learning objectives
